@@ -52,5 +52,6 @@ The following steps I have taken to refactor the code (improving it without chan
         - short commentary added to the CSS file to know where the CSS selectors are located.
         - making sure that the CSS file is in sequential order as the HTML file
         - Consolidating the CSS selectors in the style.css file.
-
+        
+Screenshot 2022-03-09 214635 Final Submission.png
        
