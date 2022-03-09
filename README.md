@@ -31,17 +31,15 @@ There are two ways to create a repository:-
 
 The following steps I have taken to refactor the code (improving it without changing what it does) are:-
 
-    a.  To structure according to the HTML, there are identifiable HTML elements and they flow in a sequential order, that is,
-        - header
-        - Content or Sections
-        - Aside
-        - Footer
-    b.  To ensure that the links are functioning correctly
+        - structure according to the HTML, making sure that there are identifiable HTML elements and they flow in a sequential order, that is,
+          header, content or section, aside and footer
+        - to ensure that the links are functioning correctly
         - simplify the links removing the extra folder
         - re-link to the images for the header
         - adding commentary to the title, header, contents or section
-        - adding alt attributes to define a text alternative to the image being displayed.  This alt attribute is a great impact on both search engines and users with text-
-          only browsers.  As an example are the people that use text-to speech software due to a vision impairment.  This targets at this accessbility as the theme of this homework assignment.
+        - adding alt attributes to define a text alternative to the image being displayed.  This alt attribute is a great impact on both search 
+          engines and users with text-only browsers. An example would be the people that use text-to speech software due to vision impairment.
+          only browsers.  This targets at this accessbility as the theme of this homework assignment.
         - short commentary added to the CSS file to know where the CSS selectors are located.
         - making sure that the CSS file is in sequential order as the HTML file
         - Consolidating the CSS selectors in the style.css file.
