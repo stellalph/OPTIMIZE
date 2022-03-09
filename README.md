@@ -12,7 +12,7 @@ There are two ways to create a repository:-
    i)  Create the remote repository on GitHub first and then clone it to my local machine, that is, click on the green icon NEW on the top right corner of the GitHub screen, give a name to new repository and add a README file and create repository.  Copy the CODE of the SSH key and I will do the git clone "my URL" command, and then making sure that I am in the project directory and the commands required, that is git add ., git command, and git push.
    
    ii) I choose the second option as I already have the files for deployment to GitHub.  The steps taken:
-   a.  Navigate to my project directory using Git Bash as I have learned in class:-
+   a.  Navigate to my project directory using Git Bash as I have learned in the class:-
 
            - git init (turning the directory into a Git repository)
            - git status (to check that status of my files)git 
