@@ -31,6 +31,7 @@ There are two ways to create a repository:-
     
 
 iii) The URL of the GitHub repository is https://github.com/stellalph/OPTIMIZE.git
+     
      The URL of the deployed application is https://stellalph.github.io/OPTIMIZE
 
 
