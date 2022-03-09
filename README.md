@@ -30,12 +30,13 @@ There are two ways to create a repository:-
     As I worked through the files with changes to my code and README file, the commands to use would be git push origin main (when changes are made in the local repository or git pull origin main (when changes are made in the remote repository)
     
 
-    iii) The URL of the GitHub repository is https://github.com/stellalph/OPTIMIZE.git and 
-         my URL of the deployed application is https://stellalph.github.io/OPTIMIZE/
+iii) The URL of the GitHub repository is https://github.com/stellalph/OPTIMIZE.git
+     The URL of the deployed application is https://stellalph.github.io/OPTIMIZE
 
 
   3) CODE REFRACTOR
-git
+
+
 The following steps I have taken to refactor the code (improving it without changing what it does) are:-
 
 
