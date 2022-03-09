@@ -31,7 +31,6 @@ There are two ways to create a repository:-
     
 
 iii) The URL of the GitHub repository is https://github.com/stellalph/OPTIMIZE.git
-     
      The URL of the deployed application is https://stellalph.github.io/OPTIMIZE
 
 
@@ -54,5 +53,7 @@ The following steps I have taken to refactor the code (improving it without chan
         - making sure that the CSS file is in sequential order as the HTML file
         - Consolidating the CSS selectors in the style.css file.
         
+
+
 Screenshot 2022-03-09 214635 Final Submission.png
        
