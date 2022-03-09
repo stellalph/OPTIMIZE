@@ -10,19 +10,25 @@ GitHub is a free cloud drive that allows to store all our projects and codes.  I
 There are two ways to create a repository:-
 
    i)  Create the remote repository on GitHub first and then clone it to my local machine, that is, click on the green icon NEW on the top right corner of the GitHub screen, give a name to new repository and add a README file and create repository.  Copy the CODE of the SSH key and I will do the git clone "my URL" command, and then making sure that I am in the project directory and the commands required, that is git add ., git command, and git push.
+   
    ii) I choose the second option as I already have the files for deployment to GitHub.  The steps taken:
-       a.  Navigate to my project directory using Git Bash as I have learned in class:-
-           > git init (turning the directory into a Git repository)
-           > git status (to check that status of my files)
-           > git add . (adding my files)
-           > git commit -m "initial commit"
-          Log on to the GitHub (my account) and create the new repository as for step (i)
-           Copy the code and making sure not to click on the README file since I am importing the files.
-           ie  git remote add origin < SSH URL> (as I have a SSH key)
+   a.  Navigate to my project directory using Git Bash as I have learned in class:-
+           - git init (turning the directory into a Git repository)
+           - git status (to check that status of my files)
+           - git add . (adding my files)
+           - git commit -m "initial commit"
+          
+      Log on to the GitHub (my account) and create the new repository as for step (i)
+      Copy the code and making sure not to click on the README file since I am importing the files.
+
+               git remote add origin < SSH URL> (as I have a SSH key)
                git branch - M main
                git push -u origin main
-       b.  As I worked through the files with changes to my code and README file, the commands to use would be git push origin main (when changes are made 
-           in the local repository or git pull origin main (when changes are made in the remote repository)
+
+
+    b.  As I worked through the files with changes to my code and README file, the commands to use would be git push origin main (when changes are made in the local repository or git pull origin main (when changes are made in the remote repository)
+    
+
     iii) The URL of the GitHub repository is https://github.com/stellalph/OPTIMIZE.git and 
          my URL of the deployed application is https://stellalph.github.io/OPTIMIZE/
 
@@ -30,6 +36,7 @@ There are two ways to create a repository:-
   3) CODE REFRACTOR
 
 The following steps I have taken to refactor the code (improving it without changing what it does) are:-
+
 
         - structure according to the HTML, making sure that there are identifiable HTML elements and they flow in a sequential order, that is,
           header, content or section, aside and footer
