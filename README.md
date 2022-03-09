@@ -13,8 +13,9 @@ There are two ways to create a repository:-
    
    ii) I choose the second option as I already have the files for deployment to GitHub.  The steps taken:
    a.  Navigate to my project directory using Git Bash as I have learned in class:-
+
            - git init (turning the directory into a Git repository)
-           - git status (to check that status of my files)
+           - git status (to check that status of my files)git 
            - git add . (adding my files)
            - git commit -m "initial commit"
           
